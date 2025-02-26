@@ -2,7 +2,7 @@
 
 A modern **React-based News Web App** that fetches and displays the latest news from various sources using the **NewsAPI**.
 
-![News Web App](assets/news-app.png)
+![News Web App](webnews.PNG)
 
 ## 🚀 Technologies Used
 - **React.js** (Frontend Framework)
